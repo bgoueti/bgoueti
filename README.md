@@ -1,5 +1,11 @@
 ### Hi there 👋
+I am a passionate and results-driven Machine Learning Engineer and Data Scientist with a strong foundation in applied mathematics, computer science, and a diverse portfolio of hands-on projects. With expertise spanning data analytics, predictive modeling, and machine learning frameworks, I specialize in transforming complex data into actionable insights that drive decision-making.
 
+Currently contributing at Fiserv Solutions, I optimize transaction processes and collaborate with cross-functional teams to enhance operational efficiency. My technical toolkit includes Python, SQL, R, TensorFlow, and visualization tools such as Tableau and Power BI, enabling me to develop impactful dashboards and predictive models. My portfolio highlights include building a mortality prediction model for in-hospital patients and designing interactive dashboards to deliver real-time data insights.
+
+I’m also deeply committed to lifelong learning, pursuing advanced studies in Data Science and Machine Learning. Whether it's designing autonomous systems, enhancing self-driving vehicles, or exploring AI applications in healthcare and finance, I thrive at the intersection of technology and innovation. 
+
+Feel free to connect if you'd like to collaborate on cutting-edge data science and AI solutions or discuss transformative business strategies.
 <!--
 **bgoueti/bgoueti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
