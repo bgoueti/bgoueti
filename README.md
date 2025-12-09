@@ -57,6 +57,28 @@ Machine Learning Engineer and Data Scientist with a strong background in applied
 ---
 
 ## Skills
+
+**Languages & Development**
+- Python, Java, JavaScript, HTML, CSS
+- SQL, R
+
+**Data Science & Machine Learning**
+- NumPy, Pandas, Scikit-learn
+- TensorFlow, PyTorch, Keras
+- Spark, Scala
+- Predictive Modeling, Multivariate Regression, K-Means Clustering
+
+**Visualization & BI**
+- Tableau, Power BI
+- Matplotlib, Seaborn, Plotly, Dash
+
+**Tools & Platforms**
+- Git, GitHub, REST APIs
+- Linux (Ubuntu), Windows
+- VirtualBox, Wireshark
+- Networking: IP addressing, routing, troubleshooting
+
+---
 - **Technical:** Python, Java, JavaScript, HTML, CSS, SQL, R, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Spark  
 - **Tools:** Git, GitHub, REST APIs, Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash, VirtualBox, Wireshark  
 - **Soft:** Communication, Leadership, Problem-Solving, Teamwork, Time Management  
