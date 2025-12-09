@@ -49,10 +49,11 @@ Machine Learning Engineer and Data Scientist with a strong background in applied
 - Focus: Mechanics of Materials and Vibratory Phenomena  
 
 **Associate Degree**, Computer Science — *Metropolitan Community College*, Omaha, NE  
-- Graduated: 2022  
+- Graduated: 2022
 
 **Data Science Program** — *Bloom Institute of Technology*  
-- 2024 – 2025  
+- 2024 – 2025
+- Focus: Data Science & Machine Learning
 
 ---
 
