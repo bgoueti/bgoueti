@@ -22,7 +22,7 @@ Machine Learning Engineer and Data Scientist with a strong background in applied
 - Collaborate with cross-functional teams to improve workflow and reduce processing errors.
 
 ### Direct Support Professional — Developmental Disability Center Nebraska (DDCN)  
-**Omaha, Nebraska** • *2019 – Present*
+**Omaha, Nebraska** • *2019 – 2025*
 - Provide daily support and care for individuals with developmental disabilities to improve safety, independence, and quality of life.
 - Maintain detailed documentation and follow individualized care plans.
 
